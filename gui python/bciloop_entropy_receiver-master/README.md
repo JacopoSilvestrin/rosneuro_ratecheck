@@ -1,1 +1,0 @@
-# bciloop_entropy_receiver
